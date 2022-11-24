@@ -146,11 +146,3 @@ for(i=0; i<totalCities; i++){
 }
 
 console.log(outputJson);
-console.log(outputJson[0].cities.length);
-console.log(outputJson[1].cities.length);
-console.log(outputJson[0].cities[0].name)
-console.log(outputJson[0].cities[1].name)
-console.log(outputJson[0].cities[2].name)
-
-//console.log(inputJson.cities.filter(x => x.weather[0].id == 800))
-//console.log(inputJson.cities[0].weather[0].id);
